@@ -28,4 +28,4 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 GItLink: https://github.com/mambu1998/Benji-Homework-from-Scratch-2
-Liver Server Link: 
+Liver Server Link: https://aboutmambu.netlify.app/
